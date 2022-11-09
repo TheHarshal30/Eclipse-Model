@@ -40,6 +40,10 @@ Mathematically, we can define the CAPM formula as follows:
 
 However, perhaps one reason why the model maintains its notoriety is its pure simplicity and the premise that it can work extremely well as an overall indicator of predicted returns if the stock has a high association of returns relative to the market return indicator being used. Only time will tell how long its validity will last.
 
+### User Guide:
+For addinng more stocks in model go to [YAHOO FINANCE](https://finance.yahoo.com/) and choose the stock you want to add and add its name in the stocks list in main.ipynb.
+After that in "porfolio_weights" change the number of stocks from 4 to the number of stocks you have added.
+
 
 ## References:
 https://www.investopedia.com <br>
